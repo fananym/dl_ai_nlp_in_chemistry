@@ -8,8 +8,7 @@
 * https://www.nature.com/articles/s41597-019-0224-1
 * http://ceur-ws.org/Vol-2414/paper4.pdf
 * https://pubs.acs.org/doi/10.1021/acscentsci.9b00576
-* https://github.com/ManzoorElahi/organic-chemistry-reaction-prediction-using-NMT
-
+* https://github.com/ManzoorElahi/organic-chemistry-reaction-prediction-using-NM
 * https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0327-2
 
 ## Libraries:

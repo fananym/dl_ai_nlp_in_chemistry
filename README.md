@@ -21,5 +21,5 @@
 * https://github.com/SeongokRyu/CH485---Artificial-Intelligence-and-Chemistry
 
 ## Competitions:
-*https://www.kaggle.com/c/champs-scalar-coupling/overview
+* https://www.kaggle.com/c/champs-scalar-coupling/overview
 
